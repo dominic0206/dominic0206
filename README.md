@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dominic0206
+- 👋 Hi, I’m Dominic Calixtro
 - 👀 I’m interested in Web Development, learning new languages and etc.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on students who also interested in learning new stuffs especially programming.
