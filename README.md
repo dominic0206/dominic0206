@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominic Calixtro
 - 👀 I’m interested in Web Development, learning new languages and etc.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on students who also interested in learning new stuffs especially programming.
+- 🌱 I’m currently learning Web Development, and Data Engineering.
+- 💞️ I’m looking to collaborate on students who are also interested in learning new stuffs especially programming.
 - 📫 How to reach me ... contact me through facebook at facebook.com/Doooomm.
 
 <!---
